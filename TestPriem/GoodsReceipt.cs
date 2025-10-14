@@ -2,7 +2,7 @@
 
 namespace TestPriem
 {
-    internal class GoodsReceipt
+    public class GoodsReceipt
     {
         public int ReceiptId { get; set; }
         public int ProductId { get; set; }

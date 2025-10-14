@@ -1,6 +1,6 @@
 ﻿namespace TestPriem
 {
-    internal class GoodsReceiptDto
+    public class GoodsReceiptDto
     {
         public int ProductId { get; set; }
         public int Quantity { get; set; }
