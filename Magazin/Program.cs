@@ -10,6 +10,7 @@ namespace Magazin
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
